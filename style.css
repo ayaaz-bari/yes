@@ -1,0 +1,23 @@
+body {
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+div {
+    height: 100px;
+    width: 250px;
+    background-color: aqua;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#stop {
+    display: none;
+}
+
